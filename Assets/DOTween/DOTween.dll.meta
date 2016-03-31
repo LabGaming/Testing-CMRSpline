@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e20ed53c4583b4df5991f14a73d27825
+timeCreated: 1459448482
+licenseType: Free
+PluginImporter:
+  serializedVersion: 1
+  iconMap:
+    DG.Tweening.Core.DOTweenComponent: {fileID: 4476612413928447662, guid: 0000000000000000d000000000000000,
+      type: 0}
+  executionOrder: {}
+  isPreloaded: 0
+  platformData:
+    Any:
+      enabled: 1
+      settings: {}
+    Editor:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
